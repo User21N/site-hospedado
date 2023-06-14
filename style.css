@@ -1,0 +1,33 @@
+.cabecalho
+{
+    background-color: blanchedalmond;
+}
+ h1 {
+    text-align : center;
+    background-color : aqua;
+}
+ h2 {
+    background-color:maroon ;
+}
+.imagem {
+    width:  20 px ;
+    background-image :  gradiente linear ();
+}
+
+ P {
+    font-size:  18 px ;
+}
+.parágrafo1 {
+    font-size :  22 px ;
+}
+.parágrafos {
+    font-size :  18 px ;
+}
+.{ _
+    exibição : bloco em linha;
+    margin :  16 px ;
+}
+ rodapé{
+
+
+}
